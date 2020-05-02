@@ -1,4 +1,4 @@
 def area(a, b):
     return a * b
 
-print(area(4,5))
+print(area(a=4,b=5))
