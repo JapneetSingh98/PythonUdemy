@@ -1,4 +1,4 @@
-def mean(*args):
-    return sum(args) / len(args)
+def mean(**kwargs):
+    return kwargs
 
-print(mean(1, 3, 4))
+print(mean(a=1, b=3, c=4))
