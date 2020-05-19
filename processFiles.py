@@ -1,2 +1,6 @@
 myfile = open("original.txt")
-print(myfile.read())
+
+content = myfile.read()
+
+print(content)
+print(content)
