@@ -2,5 +2,7 @@ myfile = open("original.txt")
 
 content = myfile.read()
 
-print(content)
+myfile.close()
+myfile.read()
+
 print(content)
