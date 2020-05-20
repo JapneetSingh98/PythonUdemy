@@ -5,6 +5,6 @@ print(content)
 
 
 with open("./files/fruits.txt") as myfile:
-    content = myfile.read()
+    thisContent = myfile.read()
 
-print(content)
+print(thisContent)

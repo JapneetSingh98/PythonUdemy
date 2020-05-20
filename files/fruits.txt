@@ -3,4 +3,4 @@
 1 orange
 1 mandarin
 1 watermelon
-1 pomegranate
+1 pomegranates
