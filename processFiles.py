@@ -4,7 +4,7 @@ with open("original.txt") as myfile:
 print(content)
 
 
-with open("./files/fruits.txt") as myfile:
-    thisContent = myfile.read()
+with open("./files/veegetables.txt", "w") as myfile:
+    myfile.write("Tomato\nCucumber\nOnion\n")
+    myfile.write("Garlic")
 
-print(thisContent)
