@@ -1,8 +1,4 @@
-myfile = open("original.txt")
-
-content = myfile.read()
-
-myfile.close()
-myfile.read()
+with open("original.txt") as myfile:
+    content = myfile.read()
 
 print(content)
