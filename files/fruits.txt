@@ -1,0 +1,6 @@
+1 pear
+1 apple
+1 orange
+1 mandarin
+1 watermelon
+1 pomegranate
